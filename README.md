@@ -1,43 +1,54 @@
-# 👋 Hi, I'm Sami
+# Sami Tor 👋
 
-🛡️ **Cybersecurity Engineer & CTI Professional**  
-Reverse Engineering • Red Team • OSINT • CTF Development  
+🛡️ Cybersecurity Engineer & CTI Professional  
+Reverse Engineering • Red Team • OSINT • CTF Development
 
-> I build offensive & defensive security tools focused on real-world adversaries,  
-> threat intelligence, and automation — not theory.
-
----
-
-## ⚙️ Skills
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000?style=flat)
-![Red Team](https://img.shields.io/badge/Red_Team-000?style=flat)
-![OSINT](https://img.shields.io/badge/OSINT-000?style=flat)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-000?style=flat)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-000?style=flat)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-000?style=flat)
+I build offensive and defensive security tools focused on real-world adversaries,
+threat intelligence, and automation — not theory.
 
 ---
 
-## 🚀 What I Do
-- Build **DFIR, malware analysis & CTI tooling**
-- Develop **reverse-engineering & CTF automation**
-- Perform **red-team style security research**
-- Hunt bugs & analyze real-world attack surfaces
-- Create **AI-assisted security detection systems**
+## Current Work
+- 🔍 Building DFIR, malware analysis & CTI tooling
+- ⚔️ Developing reverse-engineering & CTF automation tools
+- 🧠 Researching red-team techniques & real-world attack surfaces
+- 🤖 Experimenting with AI-assisted security detection systems
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sami-tor&show_icons=true&count_private=true&hide_border=true&theme=dark" height="140"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-tor&layout=compact&hide_border=true&theme=dark" height="140"/>
+## Selected Projects
+- **IntelForge** — Threat intelligence & OSINT platform
+- **CustomWebCTF** — Secure, modern CTF platform
+- **CTF Analyzer** — Reverse-engineering automation toolkit
+- **AI DDoS Protection** — ML-based attack detection system
 
 ---
 
-## 🌐 Links
-- 🌐 https://intelforge.org  
+## Tech Stack
+
+**Security**
+- Reverse Engineering, Red Teaming, VAPT
+- OSINT, Threat Intelligence, DFIR
+- Bug Bounty & Exploit Research
+
+**Languages**
+- Python, C/C++, JavaScript, Bash
+
+**Tools**
+- Ghidra, IDA, Burp Suite, Metasploit
+- Nmap, Wireshark, Docker
+- Linux (Kali, Parrot)
+
+---
+
+## What I’m Focused On
+- Building practical security tooling used in real scenarios
+- Automating reverse-engineering and analysis workflows
+- Studying attacker behavior and modern exploitation techniques
+- Bridging CTI research with offensive security
+
+---
+
+## Connect
+- 🌐 https://intelforge.org
 - 💼 https://linkedin.com/in/sami-ullah-19ba71333
