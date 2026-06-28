@@ -12,7 +12,7 @@
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
 
-📍 Mianwali, Punjab, Pakistan · BS Software Engineering (2026)
+BS Software Engineering · Expected 2026
 
 </div>
 
@@ -27,7 +27,7 @@ I build **practical tools** — CTI platforms, CTF systems, recon frameworks, an
 - 🛡️ **Security:** Red teaming, VAPT, malware analysis, OSINT, CTI, DFIR, bug bounty (HackerOne & Bugcrowd)
 - 💻 **Engineering:** Python, JavaScript, TypeScript, Next.js, REST APIs, automation pipelines
 - 🤖 **AI:** LLM integration, security automation, intelligent threat detection, prompt-engineered workflows
-- 🎓 **Education:** BS Software Engineering — University of Mianwali *(Expected 2026)*
+- 🎓 **Education:** BS Software Engineering *(Expected 2026)*
 
 ---
 
@@ -35,9 +35,10 @@ I build **practical tools** — CTI platforms, CTF systems, recon frameworks, an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sami-tor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=sami-tor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-tor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=sami-tor&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&title_color=E11D48&icon_color=E11D48" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=sami-tor&theme=tokyonight&hide_border=true&ring=E11D48&fire=E11D48&currStreakLabel=E11D48" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-tor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=E11D48" alt="Top Languages" width="60%" />
 
 </div>
 
